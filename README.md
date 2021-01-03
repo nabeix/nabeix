@@ -1,16 +1,13 @@
-### Hi there 👋
+# Yusuke Watanabe(nabeix)
 
-<!--
-**nabeix/nabeix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and CEO/CTO of [Argano Inc.](https://github.com/argano)
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Argano Inc. (January 2017 - present)
+- DWANGO Co., Ltd. (April 2015 - March 2017) 
+  - JavaScript game engine
+  - Realtime server
+- Canon Inc. (April 2011 - March 2015)
+  - Webkit
+  - HTTP/WebSocket protocol stack
