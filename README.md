@@ -6,7 +6,7 @@ Founder and CEO/CTO of [Argano Inc.](https://github.com/argano)
 
 - Argano Inc. (January 2017 - present)
   - Game Server
-    - Realtime messageing(C# .Net Core)
+    - Realtime messaging(C# .Net Core)
     - Location-based game(Node.js)
   - Mapnik
   - Route Sharing Mobile App(React Native)
