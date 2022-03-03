@@ -8,9 +8,10 @@ Founder and CEO/CTO of [Argano Inc.](https://github.com/argano)
   - Game Server
     - Realtime messaging(C# .Net Core)
     - Location-based game(Node.js)
-  - Mapnik
+  - Geolocation/Mapnik
   - Route Sharing Mobile App(React Native)
   - Browser Automation
+  - Shopify Custom App
 - DWANGO Co., Ltd. (April 2015 - March 2017) 
   - JavaScript game engine
   - Realtime server
