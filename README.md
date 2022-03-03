@@ -1,6 +1,6 @@
 # Yusuke Watanabe(nabeix)
 
-Founder and CEO/CTO of [Argano Inc.](https://github.com/argano)
+Founder and CEO of [Argano Inc.](https://github.com/argano)
 
 ## Experience
 
@@ -13,8 +13,9 @@ Founder and CEO/CTO of [Argano Inc.](https://github.com/argano)
   - Browser Automation
   - Shopify Custom App
 - DWANGO Co., Ltd. (April 2015 - March 2017) 
-  - JavaScript game engine
+  - JavaScript game engine(Akashic Engine)
   - Realtime server
 - Canon Inc. (April 2011 - March 2015)
+  - Research and development of web technologies
   - Webkit
   - HTTP/WebSocket protocol stack
